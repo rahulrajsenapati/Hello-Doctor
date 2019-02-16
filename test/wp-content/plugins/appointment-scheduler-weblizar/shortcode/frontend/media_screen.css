@@ -1,0 +1,174 @@
+@media (max-width:768px){
+.logo img {
+    margin: 0 auto;
+}
+.social-info {
+    text-align: center;
+    padding: 5px 0;
+}
+.contact-info span {
+    padding: 0 10px;
+}
+.ap-steps label {
+    display: none;
+}
+.entry-header, 
+.post-thumbnail,
+ .entry-content,
+ .entry-summary,
+ .entry-footer,
+ .comments-area,
+ .image-navigation,
+ .post-navigation,
+ .page-header, 
+ .page-content, 
+ .content-bottom-widgets {
+    margin: 0 !important;
+}
+.site-inner {
+    margin: 0;
+    max-width: 100%;
+}
+.ap-front {
+    max-height: auto;
+}
+.home-timing-prev {
+    right: 50% !important;
+    left: auto !important;
+    margin-right: 20px;
+}
+.home-timing-next {
+    right: 50% !important;
+    left: auto !important;
+    margin-right:-50px;
+}
+.signup-info {
+    text-align: center;
+}
+.step-description {
+    border-top: 2px solid #ddd;
+    margin: 0;
+    margin-top: 0;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.step4-payment .pics {
+    width: 40px;
+}.ap-logo {   text-align: center;}
+}
+@media (max-width:767px){
+.ap_menu .navbar-nav li a i {
+   float:right;
+}
+.ap_menu .navbar-nav li a{
+	padding:10px;
+	display:inline-block;
+	width:100%;
+}
+.ap_menu .navbar-nav li .dropdown-menu{
+	position:relative !important;
+	width:100% !important;
+	left:0 !important;
+}
+.ap-login {
+    text-align: left;
+}
+.app-feature-list ul li {
+    width: 100%;
+}
+.ap-steps .ap-step1,
+.ap-steps .ap-step2,
+.ap-steps .ap-step3, 
+.ap-steps .ap-step4,
+.ap-steps .ap-step5,
+.ap-steps .ap-step6 {
+    float: none;
+}
+.ap-front {
+    max-height: auto;
+}
+.step-time {
+    padding: 10px;
+}
+}
+@media (max-width:480px){
+.ap-steps label {
+    padding-left: 10px;
+    display: none;
+}
+.ap-demo .img-thumbnail {
+    padding-top: 20px;
+	background-size:100% 10%;
+}
+.ap-category,
+ .ap-service, 
+ .ap-employee,
+ .ap-avaiable,
+ .ap-dates,
+ .ap-day,
+ .ap-start-dates,
+ .ap-end-dates{
+	padding:5px;
+}
+.service-form label {
+    margin-bottom: 5px;
+}
+.ap-steps-detail1 .service-form {
+   padding: 0px;
+}
+.step4-payment span {
+    display: initial;
+    float: none;
+    padding-left: 10px;
+	margin:0;
+}
+.step4-payment .pics {
+    width: 40px;
+    float: none;
+    margin-left: 5px;
+    padding: 0;
+}
+.step4-form .coupon {
+    width: 150px;
+}
+.ap-steps {
+    padding: 10px 0;
+}
+.ap-steps-detail5 {
+    padding: 0px;
+}
+.ap-steps-detail5 h3{
+	margin:5px 0;
+}
+.home-timing-prev {
+    right: 50% !important;
+    left: auto !important;
+    margin-right: 10px;
+}
+.step-description {
+    border-top: 2px solid #ddd;
+    margin: 0;
+    margin-top: 0;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.step4-payment .pics {
+    width: 40px;
+}
+.ap-steps .ap-step1,
+.ap-steps .ap-step2,
+.ap-steps .ap-step3,
+.ap-steps .ap-step4,
+.ap-steps .ap-step5,
+.ap-steps .ap-step6 {
+width: 15%;	
+}
+.ap-front {
+    max-height: auto;
+}
+.home-timing-next {
+    margin-right: -60px;
+}.ap-logo {    text-align: center;}.ap-steps-detail1 p{    text-align: center;}.ap-steps-detail1 p {    float: none !important;}
+}@media (min-width: 768px){	.ap-category, .ap-employee, .ap-dates{		width:50% !important;	}}

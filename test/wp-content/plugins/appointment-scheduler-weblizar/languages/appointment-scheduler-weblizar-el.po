@@ -1,0 +1,1753 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: appoinmnet-scheduler-weblizar\n"
+"POT-Creation-Date: 2017-08-25 06:43+0000\n"
+"PO-Revision-Date: 2017-08-26 06:17+0000\n"
+"Last-Translator: Stratos <stratos@webing.gr>\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _e;_;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: "
+
+#: admin/email-notification.php:1
+msgid "Data Inserted Successfully"
+msgstr "Τα δεδομένα εισήχθησαν με επιτυχία"
+
+#: admin/email-notification.php:1
+msgid "Save Notification Checkbox"
+msgstr "Αποθήκευση κουτιού ελέγχου ειδοποιήσεων"
+
+#: admin/email-notification.php:1
+msgid "Select Email Type"
+msgstr "Επιλέξτε Τύπο μηνύματος ηλεκτρονικού ταχυδρομείου"
+
+#: admin/email-notification.php:1
+msgid "Enter Wp Email"
+msgstr "Εισάγετε Wp Email"
+
+#: admin/email-notification.php:1
+msgid "Enter Php Email"
+msgstr "Εισάγετε Php Email"
+
+#: admin/email-notification.php:1
+msgid "Enter SMTP Fields"
+msgstr "Εισάγετε SMTP πεδία"
+
+#: admin/email-notification.php:1
+msgid "Enable Email Checkbox"
+msgstr "Ενεργοποίηση Πλαίσιο ελέγχου Email"
+
+#: admin/email-notification.php:1
+msgid " Enter Php Email"
+msgstr "Εισάγετε Php Email"
+
+#: admin/email-notification.php:1
+msgid " Enter SMTP Fields"
+msgstr "Εισάγετε SMTP πεδία"
+
+#: admin/email-notification.php:1
+msgid " Enable Email Checkbox"
+msgstr "Ενεργοποίηση Πλαίσιο ελέγχου Email"
+
+#: admin/email-notification.php:1 admin/main_page.php:1
+msgid "Email Notification"
+msgstr "Ειδοποίηση e-mail"
+
+#: admin/email-notification.php:1
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: admin/email-notification.php:1
+msgid "Email Type"
+msgstr "Τύπος email"
+
+#: admin/email-notification.php:1
+msgid "SELECT MAIL"
+msgstr "ΕΠΙΛΟΓΗ MAIL"
+
+#: admin/email-notification.php:1
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: admin/email-notification.php:1
+msgid "PHP Mail"
+msgstr "PHP Mail"
+
+#: admin/email-notification.php:1
+msgid "SMTP Mail"
+msgstr "SMTP Mail"
+
+#: admin/email-notification.php:1 admin/setting.php:1
+msgid "Email-Id"
+msgstr "Email-Id"
+
+#: admin/email-notification.php:1
+msgid "WP Mail is available in the Pro version of the plugin."
+msgstr "Το WP Mail διατίθεται στην έκδοση Pro του plugin."
+
+#: admin/email-notification.php:1
+msgid "SMTP Mail is available in the Pro version of the plugin."
+msgstr "Το SMTP Mail είναι διαθέσιμο στην έκδοση Pro του plugin."
+
+#: admin/email-notification.php:1
+msgid "Customer Notification"
+msgstr "Ειδοποίηση πελατών"
+
+#: admin/email-notification.php:1
+msgid "Notification to customer about pending appointment"
+msgstr "Κοινοποίηση στον πελάτη σχετικά με το ραντεβού που εκκρεμεί"
+
+#: admin/email-notification.php:1
+msgid "Subject:"
+msgstr "Θέμα:"
+
+#: admin/email-notification.php:1
+msgid "Message:"
+msgstr "Μήνυμα:"
+
+#: admin/email-notification.php:1
+msgid "Send Test Mail"
+msgstr "Αποστολή Test Mail"
+
+#: admin/email-notification.php:1
+msgid "Enter Receivers Email:"
+msgstr "Εισάγετε τους παραλήπτες Email:"
+
+#: admin/email-notification.php:1
+msgid "Send"
+msgstr "Αποστολή"
+
+#: admin/email-notification.php:1
+msgid "Variables"
+msgstr "Μεταβλητές"
+
+#: admin/email-notification.php:1
+msgid "Codes"
+msgstr "Codes"
+
+#: admin/email-notification.php:1
+msgid "Service:"
+msgstr "Υπηρεσία:"
+
+#: admin/email-notification.php:1
+msgid "Time:"
+msgstr "Ωρα:"
+
+#: admin/email-notification.php:1
+msgid "Client name:"
+msgstr "Ονομα Πελάτη:"
+
+#: admin/email-notification.php:1
+msgid "Client email:"
+msgstr "E-mail client:"
+
+#: admin/email-notification.php:1
+msgid "Admin Name:"
+msgstr "Όνομα διαχειριστή:"
+
+#: admin/email-notification.php:1
+msgid "Blog Name:"
+msgstr "Όνομα ιστολογίου:"
+
+#: admin/email-notification.php:1
+msgid "Site URL:"
+msgstr "Site URL:"
+
+#: admin/email-notification.php:1
+msgid "Notification to customer about Approved appointment"
+msgstr "Κοινοποίηση στον πελάτη σχετικά με το Εγκεκριμένο ραντεβού"
+
+#: admin/email-notification.php:1
+msgid "Notification to Customer about Cancel appointment"
+msgstr "Κοινοποίηση στον Πελάτη σχετικά με την Ακύρωση ραντεβού"
+
+#: admin/email-notification.php:1
+msgid "Admin Notification"
+msgstr "Ειδοποίηση διαχειριστή"
+
+#: admin/email-notification.php:1
+msgid "Notification to admin about pending appointment"
+msgstr "Ειδοποίηση προς το admin σχετικά με το ραντεβού που εκκρεμεί"
+
+#: admin/email-notification.php:1
+msgid "Notification to admin about Approved appointment"
+msgstr "Ειδοποίηση προς το admin σχετικά με το Εγκεκριμένο ραντεβού"
+
+#: admin/email-notification.php:1
+msgid " Notification to admin about Cancel appointment"
+msgstr "Ειδοποίηση στο admin για την Ακύρωση ραντεβού"
+
+#: admin/holiday-fetch.php:54
+msgid "All Day Time Off"
+msgstr "Όλος ο χρόνος ημέρας είναι εκτός λειτουργίας"
+
+#: admin/holiday-fetch.php:61 admin/holiday.php:326 admin/holiday.php:439
+msgid "Name"
+msgstr "Ονομα"
+
+#: admin/holiday-fetch.php:69 admin/holiday.php:333 admin/setting.php:1
+msgid "Start Time"
+msgstr "Ωρα έναρξης"
+
+#: admin/holiday-fetch.php:75 admin/holiday.php:339 admin/setting.php:1
+msgid "End Time"
+msgstr "Ώρα λήξης"
+
+#: admin/holiday-fetch.php:91 admin/holiday.php:353 admin/holiday.php:442
+msgid "Repeat"
+msgstr "Επαναλάβετε"
+
+#: admin/holiday-fetch.php:94 admin/holiday-json.php:54 admin/holiday.php:356
+msgid "Particular Date(s)"
+msgstr "Ειδική ημερομηνία (ες)"
+
+#: admin/holiday-fetch.php:95 admin/holiday-json.php:58 admin/holiday.php:357
+msgid "Daily"
+msgstr "Ημερήσιος"
+
+#: admin/holiday-fetch.php:96 admin/holiday-json.php:62 admin/holiday.php:358
+msgid "Weekly"
+msgstr "Εβδομαδιαίος"
+
+#: admin/holiday-fetch.php:97 admin/holiday-json.php:65 admin/holiday.php:359
+msgid "Bi-Weekly"
+msgstr "Ανά δύο εβδομάδες"
+
+#: admin/holiday-fetch.php:98 admin/holiday-json.php:68 admin/holiday.php:360
+msgid "Monthly"
+msgstr "Μηνιαίος"
+
+#: admin/holiday-fetch.php:105 admin/holiday.php:366
+msgid "Repeat Day(s)"
+msgstr "Επανάληψη ημέρας (ες)"
+
+#: admin/holiday-fetch.php:112 admin/holiday.php:373
+msgid "Repeat Week(s)"
+msgstr "Επαναλάβετε εβδομάδα (ες)"
+
+#: admin/holiday-fetch.php:119 admin/holiday.php:379
+msgid "Repeat Bi-Week(s)"
+msgstr "Επαναλάβετε τις δύο εβδομάδες"
+
+#: admin/holiday-fetch.php:126 admin/holiday.php:385
+msgid "Repeat Month(s)"
+msgstr "Επαναλάβετε Μήνας (ες)"
+
+#: admin/holiday-fetch.php:133 admin/holiday.php:391
+msgid "Start Date"
+msgstr "Ημερομηνία έναρξης"
+
+#: admin/holiday-fetch.php:137 admin/holiday.php:395
+msgid "End Date"
+msgstr "Ημερομηνία λήξης"
+
+#: admin/holiday-fetch.php:143 admin/holiday.php:400
+msgid "Note"
+msgstr "Σημείωση"
+
+#: admin/holiday-json.php:18
+msgid "Full Day Off"
+msgstr "Πλήρης ημέρα εκτός λειτουργίας"
+
+#: admin/holiday-json.php:28 admin/holiday-json.php:39
+msgid "Running"
+msgstr "Τρεχάτος"
+
+#: admin/holiday-json.php:31 admin/holiday-json.php:42
+msgid "Gone"
+msgstr "Χαμένος"
+
+#: admin/holiday-json.php:34 admin/holiday-json.php:45
+msgid "Upcoming"
+msgstr "Ανερχόμενος"
+
+#: admin/holiday-json.php:50
+msgid "No Repeat"
+msgstr "Δεν επαναλαμβάνεται"
+
+#: admin/holiday-json.php:74
+msgid "No Holiday Add"
+msgstr "Δεν προστέθηκε Αργία"
+
+#: admin/holiday.php:41
+msgid "Creating"
+msgstr "Δημιουργώντας"
+
+#: admin/holiday.php:53 admin/holiday.php:406
+msgid "Create Holiday"
+msgstr "Δημιουργία διακοπών"
+
+#: admin/holiday.php:54
+msgid "Holiday Created Successfully"
+msgstr "Η αργία δημιουργήθηκε με επιτυχία"
+
+#: admin/holiday.php:102 admin/holiday.php:419 admin/holiday.php:425
+msgid "Update Holiday"
+msgstr "Ενημέρωση διακοπών"
+
+#: admin/holiday.php:103
+msgid "Holiday Update Successfully"
+msgstr "Ενημέρωση διακοπών με επιτυχία"
+
+#: admin/holiday.php:118 admin/holiday.php:149
+msgid "Are you sure to Delete Holiday?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε τις διακοπές;"
+
+#: admin/holiday.php:130
+msgid "Delete Successfully"
+msgstr "Διαγράφηκε με επιτυχία"
+
+#: admin/holiday.php:166
+msgid "Holiday Delete Successfully"
+msgstr "Η διακοπή διαγράφηκε με επιτυχία"
+
+#: admin/holiday.php:301 admin/main_page.php:1
+msgid "Holiday"
+msgstr "Αργία"
+
+#: admin/holiday.php:303
+msgid " Add Holiday"
+msgstr "Προσθήκη Αργίας"
+
+#: admin/holiday.php:313
+msgid "Add Holiday"
+msgstr " Προσθήκη Αργίας"
+
+#: admin/holiday.php:320
+msgid "All Day Off"
+msgstr "Ημέρα απενεργοποιημένη"
+
+#: admin/main_page.php:1
+msgid "Appoinment"
+msgstr "Ραντεβού"
+
+#: admin/main_page.php:1 admin/setting.php:1
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/main_page.php:1
+msgid "Plugin Details"
+msgstr "Λεπτομέρειες Plugin"
+
+#: admin/service-ajax.php:1
+msgid "No Services Found"
+msgstr "Δεν βρέθηκαν υπηρεσίες"
+
+#: admin/service-ajax.php:1
+msgid "Duration:"
+msgstr "Διάρκεια:"
+
+#: admin/service-ajax.php:1
+msgid "Padding Time:before"
+msgstr "Χρόνος Συμπλήρωσης: πριν"
+
+#: admin/service-ajax.php:1
+msgid "Padding Time:after"
+msgstr "Χρόνος Συμπλήρωσης: μετά"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Price:"
+msgstr "Τιμή:"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Category:"
+msgstr "Κατηγορία:"
+
+#: admin/service-ajax.php:1
+msgid "Info/Message:"
+msgstr "Πληροφορίες / Μήνυμα:"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Select Icon:"
+msgstr "Επιλογή εικονιδίου:"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Select Color:"
+msgstr "Επιλέξτε Χρώμα:"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Duration (in minutes):"
+msgstr "Διάρκεια (σε λεπτά):"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Padding Time Before</br>(in minutes):"
+msgstr "Χρόνος πριν από την συμπλήρωση </br> (σε λεπτά):"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Padding Time After</br>(in minutes):"
+msgstr "Χρόνος Συμπλήρωσης Μετά </br> (σε λεπτά):"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Capacity:"
+msgstr "Χωρητικότητα:"
+
+#: admin/service-ajax.php:1
+msgid "Select Category"
+msgstr "Επιλέξτε Κατηγορία"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Please select Category"
+msgstr "Παρακαλώ επιλέξτε κατηγορία"
+
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Info / Message:"
+msgstr "Πληροφορίες / Μήνυμα:"
+
+#: admin/service.php:1
+msgid "Category Created Successfully"
+msgstr "Η κατηγορία δημιουργήθηκε με επιτυχία"
+
+#: admin/service.php:1
+msgid "Are you sure to Delete Category?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε μια κατηγορία;"
+
+#: admin/service.php:1
+msgid "Category Deleted Successfully"
+msgstr "Η κατηγορία διαγράφηκε επιτυχώς"
+
+#: admin/service.php:1
+msgid "Service Created Successfully"
+msgstr "Η υπηρεσία δημιουργήθηκε με επιτυχία"
+
+#: admin/service.php:1
+msgid "Please select any service"
+msgstr "Επιλέξτε οποιαδήποτε υπηρεσία"
+
+#: admin/service.php:1
+msgid "Are you sure to Delete Services?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε Υπηρεσίες;"
+
+#: admin/service.php:1
+msgid "Update Successfully"
+msgstr "Ενημέρωση με επιτυχία"
+
+#: admin/service.php:1
+msgid "Category Updated Successfully"
+msgstr "Η κατηγορία ενημερώθηκε με επιτυχία"
+
+#: admin/service.php:1
+msgid " Add Services"
+msgstr " Προσθήκη υπηρεσιών"
+
+#: admin/service.php:1
+msgid "Category List"
+msgstr "Λίστα κατηγοριών"
+
+#: admin/service.php:1
+msgid " Add Category"
+msgstr " Προσθήκη κατηγορίας"
+
+#: admin/service.php:1
+msgid "Add Service"
+msgstr "Προσθήκη υπηρεσίας"
+
+#: admin/setting.php:1
+msgid "Settings Saved"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+#: admin/setting.php:1
+msgid "Are you sure to REMOVE PLUGIN?"
+msgstr "Είστε σίγουροι ότι θέλετε να ΑΦΑΙΡΕΣΤΕ ΤΟ PLUGIN;"
+
+#: admin/setting.php:1
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: admin/setting.php:1
+msgid "Removing"
+msgstr "Αφαιρείτε"
+
+#: admin/setting.php:1
+msgid "Bussiness Info "
+msgstr "Επιχειρηματικές πληροφορίες"
+
+#: admin/setting.php:1
+msgid "Bussiness Hours"
+msgstr "Εργάσιμες ώρες"
+
+#: admin/setting.php:1
+msgid "Calendar Setting"
+msgstr "Ρύθμιση ημερολογίου"
+
+#: admin/setting.php:1
+msgid "Remove Plugin"
+msgstr "Remove Plugin"
+
+#: admin/setting.php:1
+msgid "Date Format"
+msgstr "Μορφή ημερομηνίας"
+
+#: admin/setting.php:1
+msgid "Time Format"
+msgstr "Μορφή ώρας"
+
+#: admin/setting.php:1
+msgid "Click Here To Change"
+msgstr "Κάντε κλικ εδώ για αλλαγή"
+
+#: admin/setting.php:1
+msgid "Currency Setting"
+msgstr "Ρύθμιση νομίσματος"
+
+#: admin/setting.php:1
+msgid "Select Currency"
+msgstr "Επιλέξτε Νόμισμα"
+
+#: admin/setting.php:1
+msgid "Please select Currency"
+msgstr "Παρακαλώ επιλέξτε Νόμισμα"
+
+#: admin/setting.php:1
+msgid "Theme Color"
+msgstr "Χρώμα Θέματος"
+
+#: admin/setting.php:1
+msgid "Show Time Slots by"
+msgstr "Εμφάνιση χρονοθυρίδων από"
+
+#: admin/setting.php:1
+msgid "Select Time Slots"
+msgstr "Επιλέξτε χρονοθυρίδες"
+
+#: admin/setting.php:1
+msgid "Custom Slots"
+msgstr "Προσαρμοσμένες χρονοθυρίδες"
+
+#: admin/setting.php:1
+msgid "Time Slots (in minutes):"
+msgstr "Χρονοθυρίδες (σε λεπτά):"
+
+#: admin/setting.php:1
+msgid "Bussiness Profile"
+msgstr "Επιχειρηματικό προφίλ"
+
+#: admin/setting.php:1
+msgid "Bussiness Name"
+msgstr "Επωνυμία Επιχείρησης"
+
+#: admin/setting.php:1
+msgid "Bussiness Owner"
+msgstr "Ιδιοκτήτης επιχείρησης"
+
+#: admin/setting.php:1
+msgid "Phone No"
+msgstr "Αριθμός τηλεφώνου"
+
+#: admin/setting.php:1
+msgid "Fax No"
+msgstr "Αριθμός φαξ"
+
+#: admin/setting.php:1
+msgid "Blog Url"
+msgstr "Blog Url"
+
+#: admin/setting.php:1
+msgid "Postel Code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+#: admin/setting.php:1
+msgid "This field is number"
+msgstr "Αυτό το πεδίο είναι αριθμός"
+
+#: admin/setting.php:1
+msgid "Bussiness Address"
+msgstr "Διεύθυνση επιχείρησης"
+
+#: admin/setting.php:1
+msgid "Calendar Themes"
+msgstr "Θέματα Ημερολογίου"
+
+#: admin/setting.php:1
+msgid "Theme 01"
+msgstr "Theme 01"
+
+#: admin/setting.php:1
+msgid "DD-MM-YYYY"
+msgstr "ΗΗ-ΜΜ-ΕΕΕΕ"
+
+#: admin/setting.php:1
+msgid "MM-DD-YYYY"
+msgstr "ΜΜ-ΗΗ-ΕΕΕΕ"
+
+#: admin/setting.php:1
+msgid "YYYY-MM-DD"
+msgstr "ΕΕΕΕ-ΜΜ-ΗΗ"
+
+#: admin/setting.php:1
+msgid "12 Hour Time"
+msgstr "Χρόνος 12 ωρών"
+
+#: admin/setting.php:1
+msgid "24 Hour Time"
+msgstr "Ώρα 24 ωρών"
+
+#: admin/setting.php:1
+msgid "Calendar View"
+msgstr "Προβολή Ημερολογίου"
+
+#: admin/setting.php:1
+msgid "Calendar First Days"
+msgstr "Ημερολόγιο Πρώτες ημέρες"
+
+#: admin/setting.php:1
+msgid "Appointment Status Color"
+msgstr "Χρώμα κατάστασης συνάντησης"
+
+#: admin/setting.php:1
+msgid "Time off Color"
+msgstr "Χρόνος εκτός χρώματος"
+
+#: admin/setting.php:1
+msgid "Font Style"
+msgstr "Στυλ γραμματοσειράς"
+
+#: admin/setting.php:1
+msgid "Customer Backup"
+msgstr "Αντίγραφο ασφαλείας πελατών"
+
+#: admin/setting.php:1
+msgid "Services Backup "
+msgstr "Αντίγραφο ασφαλείας Υπηρεσιών"
+
+#: admin/setting.php:1
+msgid "Appoinment Backup"
+msgstr "Αντίγραφο ασφαλείας Ραντεβού"
+
+#: admin/setting.php:1
+msgid "Remove Appointment Scheduler Plugin"
+msgstr "Κατάργηση Appointment Scheduler Plugin"
+
+#: admin/setting.php:1
+msgid ""
+"This operation wiil delete all Appointment Scheduler data &amp; settings. If "
+"you continue, You will not be able to retrieve or restore your appointments "
+"entries."
+msgstr ""
+"Αυτή η ενέργεια θα διαγράψει όλα τα δεδομένα του Appointment Scheduler & τις "
+"Ρυθμίσεις σας. Αν συνεχίσετε, δεν θα μπορείτε να ανακτήσετε ή να επαναφέρετε "
+"τις καταχωρήσεις ραντεβού σας."
+
+#: admin/setting.php:1
+msgid " REMOVE PLUGIN"
+msgstr "ΑΦΑΙΡΕΣΤΕ ΤΟ PLUGIN"
+
+#: shortcode/appointment.php:59
+msgid "Please Select Service"
+msgstr "Παρακαλώ επιλέξτε υπηρεσία"
+
+#: shortcode/appointment.php:64
+msgid "Please Select Staff"
+msgstr "Παρακαλώ επιλέξτε προσωπικό"
+
+#: shortcode/appointment.php:69
+msgid "Please Select date"
+msgstr "Παρακαλώ επιλέξτε Ημερομηνία"
+
+#: shortcode/appointment.php:79 shortcode/appointment.php:124
+msgid "Please Wait"
+msgstr "Παρακαλώ περιμένετε"
+
+#: shortcode/appointment.php:144
+msgid "Please Select Appointment Time"
+msgstr "Παρακαλούμε επιλέξτε .Ωρα συνάντησης"
+
+#: shortcode/appointment.php:164
+msgid "Please Login Your Account"
+msgstr "Παρακαλώ συνδεθείτε στο λογαριασμό σας"
+
+#: shortcode/details.php:52
+msgid "Please Enter First Name"
+msgstr "Παρακαλώ εισάγετε όνομα"
+
+#: shortcode/details.php:55
+msgid "Please Enter Last Name"
+msgstr "Παρακαλώ εισάγετε το επώνυμο"
+
+#: shortcode/details.php:58 shortcode/details.php:104
+msgid "Please Enter Password"
+msgstr "Παρακαλώ εισαγάγετε τον κωδικό πρόσβασης"
+
+#: shortcode/details.php:61
+msgid "Please Enter Contact Number"
+msgstr "Παρακαλώ εισάγετε τον αριθμό επικοινωνίας"
+
+#: shortcode/details.php:64
+msgid "Please Enter Email Address"
+msgstr "Παρακαλώ εισάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: shortcode/details.php:75 shortcode/details.php:207
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: shortcode/details.php:101
+msgid "Please Enter Email"
+msgstr "Παρακαλώ εισάγετε το μήνυμα ηλεκτρονικού ταχυδρομείου"
+
+#: shortcode/details.php:108
+msgid "Loading"
+msgstr "Φόρτωση"
+
+#: shortcode/details.php:116 shortcode/details.php:223
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: shortcode/details.php:158
+msgid "You are about to request an appointment for"
+msgstr "Πρόκειται να ζητήσετε ραντεβού"
+
+#: shortcode/details.php:158
+msgid "at"
+msgstr "στη"
+
+#: shortcode/details.php:158 shortcode/time-slot-calculate.php:78
+msgid "on"
+msgstr "επί"
+
+#: shortcode/details.php:163
+msgid "Price for the"
+msgstr "Τιμή για το"
+
+#: shortcode/details.php:163
+msgid "is"
+msgstr "είναι"
+
+#: shortcode/details.php:165
+msgid "New User"
+msgstr "Νέος χρήστης"
+
+#: shortcode/details.php:166
+msgid "Existing User"
+msgstr "Υπάρχων χρήστης"
+
+#: shortcode/details.php:174 shortcode/login.php:49
+msgid "Username :"
+msgstr "Όνομα χρήστη:"
+
+#: shortcode/details.php:175
+msgid "Enter User Name"
+msgstr "Εισαγάγετε το όνομα χρήστη"
+
+#: shortcode/details.php:178 shortcode/details.php:215
+msgid "Email :"
+msgstr "Email :"
+
+#: shortcode/details.php:179
+msgid "Enter Email Address"
+msgstr "Εισάγετε ηλεκτρονική διεύθυνση"
+
+#: shortcode/details.php:182
+msgid "First Name :"
+msgstr "Ονομα :"
+
+#: shortcode/details.php:183 shortcode/details.php:187
+msgid "Enter Name"
+msgstr "Πληκτρολογήστε το όνομα"
+
+#: shortcode/details.php:186
+msgid "Last Name :"
+msgstr "Επίθετο :"
+
+#: shortcode/details.php:190 shortcode/details.php:219
+msgid "Password :"
+msgstr "Κωδικός πρόσβασης :"
+
+#: shortcode/details.php:191 shortcode/details.php:220
+msgid "Enter Password"
+msgstr "Εισάγετε τον κωδικό πρόσβασης"
+
+#: shortcode/details.php:194
+msgid "Phone :"
+msgstr "Τηλέφωνο:"
+
+#: shortcode/details.php:198
+msgid "Skype Id :"
+msgstr "Skype Id :"
+
+#: shortcode/details.php:199
+msgid "Enter Skype Id"
+msgstr "Εισαγάγετε το Skype Id"
+
+#: admin/dashboard-ajax.php:49 admin/dashboard.php:1
+msgid "Approved Report"
+msgstr "Εγκεκριμένες αναφορές"
+
+#: admin/dashboard-ajax.php:63 admin/dashboard.php:1
+msgid "Pending Report"
+msgstr "Αναφορές σε αναμονή"
+
+#: admin/dashboard-ajax.php:78 admin/dashboard.php:1
+msgid "Cancel Report"
+msgstr "Ακύρωση αναφοράς"
+
+#: admin/dashboard-ajax.php:91 admin/dashboard.php:1
+msgid "Complete"
+msgstr "Ολοκληρωμένο"
+
+#: admin/dashboard-ajax.php:93 admin/dashboard.php:1
+msgid "Complete Report"
+msgstr "Ολοκληρωμένη αναφορά"
+
+#: admin/dashboard-ajax.php:99 admin/dashboard.php:1
+msgid "Overall Report"
+msgstr "Συνολική έκθεση"
+
+#: admin/dashboard-ajax.php:103 admin/dashboard.php:1
+msgid "Total Customers"
+msgstr "Σύνολο Πελατών"
+
+#: admin/dashboard-ajax.php:104 admin/dashboard.php:1 admin/main_page.php:1
+msgid "Customers"
+msgstr "Οι πελάτες"
+
+#: admin/dashboard-ajax.php:119 admin/dashboard.php:1
+msgid "Total Services"
+msgstr "Συνολικές υπηρεσίες"
+
+#: admin/dashboard-ajax.php:120 admin/dashboard.php:1 admin/main_page.php:1 
+#: admin/service-ajax.php:1 admin/service.php:1 shortcode/appointment.php:558
+msgid "Services"
+msgstr "Υπηρεσίες"
+
+#: admin/dashboard-ajax.php:134 admin/dashboard.php:1
+msgid "Total Appointments"
+msgstr "Σύνολο Ραντεβού"
+
+#: admin/dashboard.php:1 admin/main_page.php:1
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: admin/dashboard-ajax.php:38 admin/dashboard.php:1
+msgid "Appointment Reports"
+msgstr "Αναφορές ραντεβού"
+
+#: admin/appearance.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/customer.php:1 admin/email-notification.php:1 admin/service.php:1 
+#: admin/setting.php:1 shortcode/details.php:68
+msgid "Saving"
+msgstr "Αποθηκεύεται"
+
+#: admin/appearance.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/customer.php:1 admin/email-notification.php:1 admin/service.php:1 
+#: admin/setting.php:1 shortcode/appointment.php:191
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: admin/appearance.php:1
+msgid "Appearance Saved Successfully"
+msgstr "Η εμφάνιση αποθηκεύτηκε με επιτυχία"
+
+#: admin/appearance.php:1
+msgid "Custom Css Saved"
+msgstr "Custom Css Saved"
+
+#: admin/appearance.php:1 admin/main_page.php:1
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: admin/appearance.php:1
+msgid " General Setting"
+msgstr "Γενική ρύθμιση"
+
+#: admin/appearance.php:1
+msgid " Service"
+msgstr "Υπηρεσία"
+
+#: admin/appearance.php:1
+msgid " Time"
+msgstr "Ώρα"
+
+#: admin/appearance.php:1
+msgid " Details"
+msgstr "Λεπτομέριες"
+
+#: admin/appearance.php:1
+msgid " Confirm"
+msgstr "Επιβεβαιώστε"
+
+#: admin/appearance.php:1
+msgid " Done"
+msgstr "Εγινε"
+
+#: admin/appearance.php:1
+msgid "Custom Css"
+msgstr "Custom Css"
+
+#: admin/appearance.php:1 admin/setting.php:1
+msgid "General Setting"
+msgstr "Γενική ρύθμιση"
+
+#: admin/appearance.php:1
+msgid "Select color:"
+msgstr "Επιλέξτε χρώμα:"
+
+#: admin/appearance.php:1
+msgid "Show form progress tracker:"
+msgstr "Εμφάνιση εργαλείου παρακολούθησης προόδου:"
+
+#: admin/appearance.php:1 admin/appointment.php:1
+msgid "Yes"
+msgstr "Ναί"
+
+#: admin/appearance.php:1 admin/appointment.php:1 admin/holiday-fetch.php:93 
+#: admin/holiday.php:355
+msgid "No"
+msgstr "Οχι"
+
+#: admin/appearance.php:1
+msgid "Show logo:"
+msgstr "Εμφάνιση λογότυπου:"
+
+#: admin/appearance.php:1
+msgid "Upload logo:"
+msgstr "Ανεβάστε λογότυπο:"
+
+#: admin/appearance.php:1
+msgid "No media selected!"
+msgstr "Δεν έχουν επιλεγεί πολυμέσα!"
+
+#: admin/appearance.php:1
+msgid "Upload logo"
+msgstr "Ανεβάστε το λογότυπο"
+
+#: admin/appearance.php:1
+msgid "Logo width"
+msgstr "Λογότυπο πλάτος"
+
+#: admin/appearance.php:1
+msgid "Logo height"
+msgstr "Ύψος λογότυπου"
+
+#: admin/appearance.php:1
+msgid "Show Phone Number:"
+msgstr "Εμφάνιση τηλεφωνικού αριθμού:"
+
+#: admin/appearance.php:1
+msgid "Phone Number:"
+msgstr "Τηλεφωνικό νούμερο:"
+
+#: admin/appearance.php:1 admin/category-fetch.php:1 admin/service.php:1
+msgid "Select Icon"
+msgstr "Επιλέξτε Εικονίδιο"
+
+#: admin/appearance.php:1
+msgid "Show Email Address:"
+msgstr "Εμφάνιση διεύθυνσης ηλεκτρονικού ταχυδρομείου:"
+
+#: admin/appearance.php:1
+msgid " Email Address:"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου:"
+
+#: admin/appearance.php:1
+msgid "Social Link:"
+msgstr "Social Link:"
+
+#: admin/appearance.php:1
+msgid "Social Link 1"
+msgstr "Social Link 1"
+
+#: admin/appearance.php:1
+msgid "Social Link 2"
+msgstr "Social Link 2"
+
+#: admin/appearance.php:1
+msgid "Social Link 3"
+msgstr "Social Link 3"
+
+#: admin/appearance.php:1
+msgid "Social Link 4"
+msgstr "Social Link 4"
+
+#: admin/appearance.php:1
+msgid "Social Link 5"
+msgstr "Social Link 5"
+
+#: admin/appearance.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/calendar_service.php:1 admin/setting.php:1
+msgid "Service"
+msgstr "Υπηρεσία"
+
+#: admin/appearance.php:1
+msgid "Tips:"
+msgstr "Συμβουλές:"
+
+#: admin/appearance.php:1
+msgid "Navigation Button Text :"
+msgstr "Κουμπί πλοήγησης Κείμενο:"
+
+#: admin/appearance.php:1 admin/holiday.php:441
+msgid "Time"
+msgstr "Ώρα"
+
+#: admin/appearance.php:1
+msgid "Forward Navigation Button Text :"
+msgstr "Εμπρός Κείμενο Πλοήγησης Κείμενο:"
+
+#: admin/appearance.php:1
+msgid "Details"
+msgstr "Λεπτομέριες"
+
+#: admin/appearance.php:1
+msgid "Backward Navigation Button Text :"
+msgstr "Κείμενο βέλους πίσω πλοήγησης:"
+
+#: admin/appearance.php:1
+msgid "Confirm"
+msgstr "Επιβεβαιώστε"
+
+#: admin/appearance.php:1
+msgid "Done"
+msgstr "Εγινε"
+
+#: admin/appearance.php:1
+msgid "Custom Css Editor"
+msgstr "Custom Css Editor"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Service Name:"
+msgstr "Όνομα υπηρεσίας:"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1
+msgid "-- Select a service --"
+msgstr "- Επιλέξτε μια υπηρεσία -"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/calendar_customer.php:1 admin/calendar_service.php:1 
+#: admin/calendar_staff.php:1
+msgid "Please select one"
+msgstr "Επιλέξτε ένα"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 
+#: admin/email-notification.php:1
+msgid "Date:"
+msgstr "Ημερομηνία:"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/category-fetch.php:1 admin/customer-fetch.php:1 admin/customer.php:1 
+#: admin/holiday-fetch.php:63 admin/holiday.php:328 admin/service-ajax.php:1 
+#: admin/service.php:1 admin/setting.php:1
+msgid "This field is required"
+msgstr "Αυτό το πεδίο απαιτείται"
+
+#: admin/appointment-fetch.php:1
+msgid "Start Period:"
+msgstr "Περίοδος εκκίνησης:"
+
+#: admin/appointment-fetch.php:1
+msgid "End Period:"
+msgstr "Περίοδος λήξης:"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1
+msgid "Customer:"
+msgstr "Πελάτης:"
+
+#: admin/appointment-fetch.php:1
+msgid "--- Select Customer ---"
+msgstr "--- Επιλογή Πελάτη ---"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 shortcode/login.php:64
+msgid "Contact No.:"
+msgstr "Αριθμός επικοινωνίας:"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 
+#: admin/service-ajax.php:1 admin/service.php:1 admin/setting.php:1
+msgid "This field is required number"
+msgstr "Αυτό το πεδίο απαιτείται αριθμός"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 
+#: admin/email-notification.php:1
+msgid "Status:"
+msgstr "Κατάσταση:"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1
+msgid "--- Select Status ---"
+msgstr "--- Επιλέξτε κατάσταση ---"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/dashboard-ajax.php:47 admin/dashboard.php:1 admin/setting.php:1
+msgid "Approved"
+msgstr "Εγκρίθηκε"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/dashboard-ajax.php:61 admin/dashboard.php:1 admin/setting.php:1
+msgid "Pending"
+msgstr "Εν αναμονή έγκρισης"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 
+#: admin/customer-fetch.php:1 admin/customer.php:1 admin/dashboard-ajax.php:76 
+#: admin/dashboard.php:1 admin/holiday.php:123 admin/holiday.php:154 
+#: admin/holiday.php:407 admin/holiday.php:426 admin/service-ajax.php:1 
+#: admin/service.php:1 admin/setting.php:1
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/setting.php:1
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1
+msgid "Payment Status:"
+msgstr "Κατάσταση πληρωμής:"
+
+#: admin/appointment-fetch.php:1 admin/appointment.php:1 admin/calendar.php:1 
+#: admin/customer-fetch.php:1 admin/customer.php:1 admin/holiday.php:91 
+#: admin/service-ajax.php:1 admin/service.php:1
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: admin/appointment-fetch.php:1 admin/customer-fetch.php:1
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: admin/appointment.php:1
+msgid "Appointment Created Successfully"
+msgstr "Η συνάντηση δημιουργήθηκε με επιτυχία"
+
+#: admin/appointment.php:1 admin/customer-json.php:1
+msgid "No Customer Add"
+msgstr "Δεν προστέθηκε πελάτης"
+
+#: admin/appointment.php:1 admin/customer.php:1 admin/service.php:1
+msgid "Updating"
+msgstr "Ενημέρωση"
+
+#: admin/appointment.php:1 admin/calendar.php:1
+msgid "Appointment Updated Successfully"
+msgstr "Το ραντεβού ενημερώθηκε με επιτυχία"
+
+#: admin/appointment.php:1 admin/customer.php:1 admin/holiday.php:116 
+#: admin/holiday.php:147 admin/service.php:1 admin/setting.php:1
+msgid "Please Confirm"
+msgstr "Παρακαλώ Επιβεβαιώστε"
+
+#: admin/appointment.php:1
+msgid "Are you sure to Delete Appointment"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το ραντεβού"
+
+#: admin/appointment.php:1 admin/customer.php:1 admin/holiday.php:122 
+#: admin/holiday.php:153 admin/holiday.php:165 admin/service-ajax.php:1 
+#: admin/service.php:1
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: admin/appointment.php:1
+msgid "Appointment Delete Successfully"
+msgstr "Διαγραφή με επιτυχία"
+
+#: admin/appointment.php:1 admin/customer.php:1 admin/holiday.php:157 
+#: admin/service.php:1
+msgid "Deleting"
+msgstr "Διαγράφεται"
+
+#: admin/appointment.php:1
+msgid "Please Cinfirm"
+msgstr "Παρακαλώ Επιβεβαιώστε"
+
+#: admin/appointment.php:1
+msgid "Status Updated. Do you want to Send Mail?"
+msgstr "Η κατάσταση ενημερώθηκε. Θέλετε να στείλετε αλληλογραφία;"
+
+#: admin/appointment.php:1 admin/email-notification.php:1
+msgid "Mail Sent Successfully"
+msgstr "Το μήνυμα στέλνεται με επιτυχία"
+
+#: admin/appointment.php:1
+msgid "Status Updated Successfully"
+msgstr "Η κατάσταση ενημερώθηκε με επιτυχία"
+
+#: admin/appointment.php:1 admin/dashboard-ajax.php:135 admin/dashboard.php:1
+msgid "Appointments"
+msgstr "Ραντεβού"
+
+#: admin/appointment.php:1 admin/customer.php:1
+msgid "Print All"
+msgstr "Εκτύπωση όλων"
+
+#: admin/appointment.php:1
+msgid " New Appointment"
+msgstr "Νέο ραντεβού"
+
+#: admin/appointment.php:1
+msgid "New Appointment"
+msgstr "Νέο ραντεβού"
+
+#: admin/appointment.php:1
+msgid "Start Time:"
+msgstr "Ωρα έναρξης:"
+
+#: admin/appointment.php:1
+msgid "End Time:"
+msgstr "Ώρα λήξης:"
+
+#: admin/appointment.php:1 admin/calendar.php:1 admin/calendar_customer.php:1
+msgid "Select Customer"
+msgstr "Επιλέξτε Πελάτη"
+
+#: admin/appointment.php:1 admin/calendar.php:1
+msgid "Please select/create one"
+msgstr "Επιλέξτε / δημιουργήστε ένα"
+
+#: admin/appointment.php:1
+msgid "Edit Appointment"
+msgstr "Επεξεργασία ραντεβού"
+
+#: admin/appointment.php:1
+msgid "Booking Id"
+msgstr "Αναγνωριστικό κράτησης"
+
+#: admin/appointment.php:1
+msgid "Appoinment Date"
+msgstr "Ημερομηνία ραντεβού"
+
+#: admin/appointment.php:1 admin/calendar.php:1
+msgid "Customer Name"
+msgstr "Όνομα πελάτη"
+
+#: admin/appointment.php:1 admin/calendar.php:1 admin/dashboard-ajax.php:41 
+#: admin/dashboard-ajax.php:55 admin/dashboard-ajax.php:70 
+#: admin/dashboard-ajax.php:85 admin/dashboard.php:1 admin/holiday.php:443
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: admin/appointment.php:1
+msgid "Contact No"
+msgstr "Αριθμός επικοινωνίας"
+
+#: admin/appointment.php:1 admin/customer.php:1 admin/holiday.php:444
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: admin/appointment.php:1 admin/customer.php:1 admin/holiday.php:448
+msgid " Delete"
+msgstr "Διαγραφή"
+
+#: admin/calendar.php:1
+msgid "Appointment Booked Successfully"
+msgstr "Το ραντεβού κρατήθηκε με επιτυχία"
+
+#: admin/calendar.php:1 admin/main_page.php:1
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+#: admin/calendar.php:1
+msgid "Time Off"
+msgstr "Εκτός εργασίας"
+
+#: admin/calendar.php:1 admin/customer.php:1
+msgid "Customer"
+msgstr "Πελάτης"
+
+#: admin/calendar.php:1
+msgid "All"
+msgstr "Ολα"
+
+#: admin/calendar.php:1
+msgid "Book an Appointment"
+msgstr "Κλείστε ένα ραντεβού"
+
+#: admin/calendar.php:1
+msgid "Select Service"
+msgstr "Επιλέξτε Υπηρεσία"
+
+#: admin/calendar.php:1
+msgid "Contact No."
+msgstr "Αρ. Επικοινωνίας"
+
+#: admin/calendar.php:1 admin/holiday-fetch.php:84 admin/holiday.php:347 
+#: admin/holiday.php:440
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: admin/calendar.php:1
+msgid "Select Start Time"
+msgstr "Επιλέξτε Ώρα έναρξης"
+
+#: admin/calendar.php:1
+msgid "Select End Time"
+msgstr "Επιλέξτε Ώρα λήξης"
+
+#: admin/calendar.php:1
+msgid "Appointment Status"
+msgstr "Κατάσταση Ραντεβού"
+
+#: admin/calendar.php:1
+msgid "Select Status"
+msgstr "Επιλέξτε Κατάσταση"
+
+#: admin/calendar.php:1
+msgid "Payment Status"
+msgstr "Κατάσταση πληρωμής"
+
+#: admin/calendar.php:1
+msgid "Repeat:"
+msgstr "Επαναλάβετε:"
+
+#: admin/calendar.php:1
+msgid "Repeat Feature available in Pro Version"
+msgstr "Επαναληπτική δυνατότητα διαθέσιμη στην έκδοση Pro"
+
+#: admin/calendar.php:1 admin/service.php:1
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: admin/calendar.php:1
+msgid "Update Appointment"
+msgstr "Ανανέωση ραντεβού"
+
+#: admin/calendar.php:1
+msgid "January"
+msgstr "Ιανουάριος"
+
+#: admin/calendar.php:1
+msgid "February"
+msgstr "Φεβρουάριος"
+
+#: admin/calendar.php:1
+msgid "March"
+msgstr "Μάρτιος"
+
+#: admin/calendar.php:1
+msgid "April"
+msgstr "Απρίλιος"
+
+#: admin/calendar.php:1
+msgid "May"
+msgstr "Μάιος"
+
+#: admin/calendar.php:1
+msgid "June"
+msgstr "Ιούνιος"
+
+#: admin/calendar.php:1
+msgid "July"
+msgstr "Ιούλιος"
+
+#: admin/calendar.php:1
+msgid "August"
+msgstr "Αύγουστος"
+
+#: admin/calendar.php:1
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+#: admin/calendar.php:1
+msgid "October"
+msgstr "Οκτώβριος"
+
+#: admin/calendar.php:1
+msgid "November"
+msgstr "Νοέμβριος"
+
+#: admin/calendar.php:1
+msgid "December"
+msgstr "Δεκέμβριος"
+
+#: admin/calendar.php:1
+msgid "Jan"
+msgstr "Jan"
+
+#: admin/calendar.php:1
+msgid "Feb"
+msgstr "Feb"
+
+#: admin/calendar.php:1
+msgid "Mar"
+msgstr "Mar"
+
+#: admin/calendar.php:1
+msgid "Apr"
+msgstr "Apr"
+
+#: admin/calendar.php:1
+msgid "Jun"
+msgstr "Jun"
+
+#: admin/calendar.php:1
+msgid "Jul"
+msgstr "Jul"
+
+#: admin/calendar.php:1
+msgid "Aug"
+msgstr "Aug"
+
+#: admin/calendar.php:1
+msgid "Sept"
+msgstr "Sept"
+
+#: admin/calendar.php:1
+msgid "Oct"
+msgstr "Oct"
+
+#: admin/calendar.php:1
+msgid "nov"
+msgstr "nov"
+
+#: admin/calendar.php:1
+msgid "Dec"
+msgstr "Dec"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: admin/calendar.php:1
+msgid "Sun"
+msgstr "Sun"
+
+#: admin/calendar.php:1
+msgid "Mon"
+msgstr "Mon"
+
+#: admin/calendar.php:1
+msgid "Tue"
+msgstr "Tue"
+
+#: admin/calendar.php:1
+msgid "Wed"
+msgstr "Wed"
+
+#: admin/calendar.php:1
+msgid "Thus"
+msgstr "Thus"
+
+#: admin/calendar.php:1
+msgid "Fri"
+msgstr "Fri"
+
+#: admin/calendar.php:1
+msgid "Sat"
+msgstr "Sat"
+
+#: admin/calendar.php:1
+msgid "Today"
+msgstr "Σήμερα"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Day"
+msgstr "Ημέρα"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Week"
+msgstr "Εβδομάδα"
+
+#: admin/calendar.php:1 admin/setting.php:1
+msgid "Month"
+msgstr "Μήνας"
+
+#: admin/calendar_staff.php:1
+msgid "Staff Member"
+msgstr "Μέλος του προσωπικού"
+
+#: admin/calendar_staff.php:1
+msgid "Select Staff"
+msgstr "Επιλέξτε Προσωπικό"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1
+msgid "Customer First Name:"
+msgstr "Όνομα Πελάτη:"
+
+#: admin/customer-fetch.php:1
+msgid "Customer Name:"
+msgstr "Ονομα πελάτη:"
+
+#: admin/customer-fetch.php:1
+msgid "User Name:"
+msgstr "Ονομα χρήστη:"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1
+msgid "Password:"
+msgstr "Κωδικός πρόσβασης:"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1
+msgid "Phone No:"
+msgstr "Αριθμός τηλεφώνου:"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1
+msgid "Email Id:"
+msgstr "Email Id:"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1 admin/setting.php:1
+msgid "Invalid email"
+msgstr "Ακυρη διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1
+msgid "Skype Id:"
+msgstr "Skype Id:"
+
+#: admin/customer-fetch.php:1 admin/customer.php:1
+msgid "Special Notes"
+msgstr "Ειδικές σημειώσεις"
+
+#: admin/customer.php:1
+msgid "Customer Created Successfully"
+msgstr "Ο πελάτης δημιουργήθηκε με επιτυχία"
+
+#: admin/customer.php:1
+msgid "Customer Update Successfully"
+msgstr "Ενημέρωση πελάτη με επιτυχία"
+
+#: admin/customer.php:1
+msgid "Are you sure to Delete Customer?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε τον πελάτη;"
+
+#: admin/customer.php:1
+msgid "Customer Delete Successfully"
+msgstr "Ο πελάτης διαγράφεται με επιτυχία"
+
+#: admin/customer.php:1
+msgid " Add Customer"
+msgstr "Προσθήκη πελάτη"
+
+#: admin/customer.php:1
+msgid "Add Customer"
+msgstr "Προσθήκη πελάτη"
+
+#: admin/customer.php:1
+msgid "Customer Last Name:"
+msgstr "Πελάτης Επώνυμο:"
+
+#: admin/customer.php:1
+msgid "Edit Customer"
+msgstr "Επεξεργασία πελάτη"
+
+#: admin/customer.php:1
+msgid "First Name"
+msgstr "Ονομα"
+
+#: admin/customer.php:1
+msgid "Last Name"
+msgstr "Επίθετο"
+
+#: admin/customer.php:1
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: admin/customer.php:1
+msgid "Skype Id"
+msgstr "Skype Id"
+
+#: admin/customer.php:1
+msgid "Email"
+msgstr "Email"
+
+#: admin/customer.php:1
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+#: shortcode/appointment.php:132 shortcode/appointment.php:601 
+#: shortcode/details.php:244 shortcode/login.php:199 
+#: shortcode/time-slot-calculate.php:771
+msgid "Next"
+msgstr "Επόμενο"
+
+#: shortcode/appointment.php:531 shortcode/appointment.php:624 
+#: shortcode/details.php:134 shortcode/login.php:125 shortcode/login.php:209 
+#: shortcode/login.php:250 shortcode/time-slot-calculate.php:32
+msgid "1. Services"
+msgstr "1. Υπηρεσίες"
+
+#: shortcode/appointment.php:535 shortcode/appointment.php:628 
+#: shortcode/details.php:138 shortcode/login.php:129 shortcode/login.php:213 
+#: shortcode/login.php:254 shortcode/time-slot-calculate.php:36
+msgid "2. Time"
+msgstr "2. Ώρα"
+
+#: shortcode/appointment.php:539 shortcode/appointment.php:632 
+#: shortcode/details.php:142 shortcode/login.php:133 shortcode/login.php:217 
+#: shortcode/login.php:258 shortcode/time-slot-calculate.php:40
+msgid "3. Details"
+msgstr "3. Λεπτομέρειες"
+
+#: shortcode/appointment.php:543 shortcode/appointment.php:636 
+#: shortcode/details.php:146 shortcode/login.php:137 shortcode/login.php:221 
+#: shortcode/login.php:262 shortcode/time-slot-calculate.php:44
+msgid "4. Confirm"
+msgstr "4. Επιβεβαιώστε"
+
+#: shortcode/appointment.php:548 shortcode/appointment.php:640 
+#: shortcode/details.php:151 shortcode/login.php:141 shortcode/login.php:225 
+#: shortcode/login.php:266 shortcode/time-slot-calculate.php:48
+msgid "5. Done"
+msgstr "5. Τέλος"
+
+#: shortcode/appointment.php:560
+msgid "--Select--"
+msgstr "--Επιλέξτε--"
+
+#: shortcode/appointment.php:585
+msgid "Appointment Date"
+msgstr "Ημερομηνία ραντεβού"
+
+#: shortcode/appointment.php:656
+msgid "Booking Done"
+msgstr "Η κράτηση έγινε"
+
+#: shortcode/appointment.php:658
+msgid "Thank You! Your Booking Is Complete."
+msgstr "Ευχαριστώ! Η κράτησή σας έχει ολοκληρωθεί."
+
+#: shortcode/details.php:49
+msgid "Please Enter Username"
+msgstr "Εισαγάγετε το όνομα χρήστη"
+
+#: shortcode/details.php:202
+msgid "Notes :"
+msgstr "Σημειώσεις:"
+
+#: shortcode/details.php:203
+msgid "Enter Notes"
+msgstr "Εισαγάγετε σημειώσεις"
+
+#: shortcode/details.php:216
+msgid "Enter Email"
+msgstr "Εισαγάγετε το Email"
+
+#: shortcode/details.php:243 shortcode/login.php:198 
+#: shortcode/time-slot-calculate.php:770
+msgid "Back"
+msgstr "Πίσω"
+
+#: shortcode/login.php:47
+msgid "Login Successfull"
+msgstr "Επιτυχής σύνδεση"
+
+#: shortcode/login.php:50 shortcode/login.php:96
+msgid "Name :"
+msgstr "Ονομα :"
+
+#: shortcode/login.php:51
+msgid "Email Id.:"
+msgstr "Email Id.:"
+
+#: shortcode/login.php:54
+msgid "Date :"
+msgstr "Ημερομηνία:"
+
+#: shortcode/login.php:55
+msgid "Appointment Time :"
+msgstr "Ώρα ραντεβού:"
+
+#: shortcode/login.php:66
+msgid "Skype Id.:"
+msgstr "Skype Id.:"
+
+#: shortcode/login.php:77
+msgid "Staff Member :"
+msgstr "Μέλος του προσωπικού :"
+
+#: shortcode/login.php:97
+msgid "Price :"
+msgstr "Τιμή:"
+
+#: shortcode/login.php:103 shortcode/login.php:106
+msgid "Duration :"
+msgstr "Διάρκεια :"
+
+#: shortcode/login.php:149
+msgid "Service Detail"
+msgstr "Λεπτομέρειες υπηρεσιών"
+
+#: shortcode/login.php:158
+msgid "User Detail"
+msgstr "Λεπτομέρειες χρήστη"
+
+#: shortcode/login.php:180
+msgid "Do u want to Confirm Appointment ?"
+msgstr "Θέλετε να επιβεβαιώσετε το ραντεβού;"
+
+#: shortcode/login.php:205
+msgid "Invalid Password"
+msgstr "Λανθασμένος κωδικός"
+
+#: shortcode/login.php:231
+msgid ""
+"<center><p>You have entered invalid Password, Please Try Again.</center><br>"
+"<center>Thank You</center></p>"
+msgstr ""
+"<center><p>Έχετε εισαγάγει μη έγκυρο κωδικό πρόσβασης, δοκιμάστε ξανά."
+"</center><br><center>Σας ευχαριστούμε</center></p>"
+
+#: shortcode/login.php:240 shortcode/login.php:281 shortcode/login.php:494
+msgid "Try Again"
+msgstr "Προσπάθησε ξανά"
+
+#: shortcode/login.php:246
+msgid "Email Does Not Exist."
+msgstr "Το Email δεν υπάρχει."
+
+#: shortcode/login.php:272
+msgid ""
+"<center><p>Email Does Not Exist, Please Register Your Account.</center><br>"
+"<center>Thank You</center></p>"
+msgstr ""
+"<center><p>Το Email δεν υπάρχει, παρακαλώ καταχωρήστε τον λογαριασμό "
+"σας</center><br><center>Σας ευχαριστούμε</center></p>"
+
+#: shortcode/login.php:459
+msgid "Email Already Registered."
+msgstr "Το ηλεκτρονικό ταχυδρομείο έχει ήδη εγγραφεί."
+
+#: shortcode/login.php:485
+msgid "Thank You"
+msgstr "Σας ευχαριστούμε"
+
+#: shortcode/time-slot-calculate.php:69
+msgid "minutes"
+msgstr "λεπτά"
+
+#: shortcode/time-slot-calculate.php:736
+msgid ""
+"<center>Business Hours Closed for Today. Please Select Another Date.</center>"
+"<br><center>Thank You</center>"
+msgstr ""
+"<center>Οι ώρες λειτουργίας κλειστές για σήμερα. Επιλέξτε άλλη ημερομηνία."
+"</center><br><center>Σας ευχαριστούμε</center>"
+
+#: shortcode/login.php:485
+msgid ""
+"The Email You Entered is already registered with us, Please Login Your "
+"Account."
+msgstr ""
+"Το μήνυμα ηλεκτρονικού ταχυδρομείου που καταχωρίσατε είναι ήδη καταχωρισμένο "
+"σε εμάς, παρακαλούμε συνδεθείτε"
+
+#: shortcode/time-slot-calculate.php:55
+msgid "Available time slots for"
+msgstr "Διαθέσιμες χρονικές θυρίδες για"
