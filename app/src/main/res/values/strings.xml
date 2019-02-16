@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="error_field_required">This field is required</string>
+    <string-array name="departments">
+        <item>Cardiology</item>
+        <item>Physiology</item>
+        <item>Orthopaedics</item>
+        <item>Neurologist</item>
+    </string-array>
 </resources>

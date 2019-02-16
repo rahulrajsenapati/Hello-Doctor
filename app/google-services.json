@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228449363345",
+    "firebase_url": "https://hello-doctor-6d191.firebaseio.com",
+    "project_id": "hello-doctor-6d191",
+    "storage_bucket": "hello-doctor-6d191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228449363345:android:d6cdef3534b21543",
+        "android_client_info": {
+          "package_name": "com.example.rahul.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228449363345-cpd11bpt64j7ge5nf0gs5gopaq9drl9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahul.myapplication",
+            "certificate_hash": "8f0351ba0aa53a02dd4408e297b2cc4df728df41"
+          }
+        },
+        {
+          "client_id": "228449363345-32diqg9vdtppsa6dur0gj9hnno4k4pi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSk2IEh9PQnWyHM1B9MF2lGIew4F-HU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228449363345-32diqg9vdtppsa6dur0gj9hnno4k4pi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
